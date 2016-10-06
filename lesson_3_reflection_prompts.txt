@@ -19,3 +19,7 @@ What is the benefit of having a copy of the last known state of the remote store
 How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
 
   I'd do it via Dropbox. It'd be easy to stay on the same 'branch', but creating different branches would be super difficult.
+
+When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have?
+
+  When you're doing something that is experimental, or making a new major change. You want to keep the master branch as the 'last known stable release'.
